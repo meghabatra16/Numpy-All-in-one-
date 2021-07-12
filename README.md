@@ -1,2 +1,2 @@
 # Numpy-All-in-one-
-It has all the basic to advance commands related to numpy
+It has all the common ways to create a numpy array.
